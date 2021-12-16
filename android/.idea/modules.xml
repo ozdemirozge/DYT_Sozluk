@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DYT_Sozluk.iml" filepath="$PROJECT_DIR$/.idea/modules/DYT_Sozluk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DYT_Sozluk.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DYT_Sozluk.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-422400462/DYT_Sozluk.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-422400462/DYT_Sozluk.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1507398034/DYT_Sozluk.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1507398034/DYT_Sozluk.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1507810066/DYT_Sozluk.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/1507810066/DYT_Sozluk.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/786026570/DYT_Sozluk.react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/786026570/DYT_Sozluk.react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/617354793/DYT_Sozluk.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/617354793/DYT_Sozluk.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1346223046/DYT_Sozluk.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/1346223046/DYT_Sozluk.react-native-localize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1223837778/DYT_Sozluk.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1223837778/DYT_Sozluk.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-154499350/DYT_Sozluk.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-154499350/DYT_Sozluk.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1360871755/DYT_Sozluk.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1360871755/DYT_Sozluk.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1636645817/DYT_Sozluk.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1636645817/DYT_Sozluk.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/816372301/DYT_Sozluk.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/816372301/DYT_Sozluk.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

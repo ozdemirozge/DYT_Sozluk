@@ -53,23 +53,7 @@ export default function HomeScreen() {
 
 
   function onModalItemPress(item) {
-    if (item.isParametric) {
-
-      var index = item.commandName.indexOf('{');
-      var tempCommand = item.commandName.substring(0, index - 1)
-      var tempParameters = item.commandName.substring(index, item.commandName.length)
-      setTempParameters(tempParameters);
-      setTempCommand(tempCommand);
-      setTxt(item.commandName);
-      setDeletedTempParameters(tempParameters);
-      closeModal();
-      myElement.current.focus();
-
-    } else {
-
-      sendMessage(item.commandName, null)
-
-    }
+    null
   }
 
   function clear() {
